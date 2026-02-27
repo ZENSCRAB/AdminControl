@@ -1,0 +1,16 @@
+{
+  "TOOL_V1": "on",
+  "TOOL_V2": "on",
+  "TOOL_V3": "on",
+  "TOOL_V4": "on",
+  "TOOL_V5": "on",
+  "TOOL_V6": "on",
+  "TOOL_V7": "on",
+  "TOOL_V8": "on",
+  "TOOL_V9": "off",
+
+  "on_msg": "✅ Access granted",
+  "off_msg": "🔥 Tool under maintenance",
+
+  "channel_redirect": "https://t.me/+2dTYtlpTdCMwZmRl"
+}
