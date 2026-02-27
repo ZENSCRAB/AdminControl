@@ -9,8 +9,8 @@
   "TOOL_V8": "on",
   "TOOL_V9": "off",
 
-  "on_msg": "✅ Access granted",
-  "off_msg": "🔥 Tool under maintenance",
+  "on_msg": "  ✅ 𝗔𝗖𝗖𝗘𝗦𝗦 𝗚𝗥𝗔𝗡𝗧𝗘𝗗 ",
+  "off_msg": " ❌ 𝗦𝗧𝗢𝗣𝗣𝗘𝗗 𝗕𝗬 𝗔𝗗𝗠𝗜𝗡 \n  𝗝𝗢𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗙𝗢𝗥 𝗧𝗢𝗢𝗟 𝗔𝗖𝗖𝗘𝗦𝗦.!   ",
 
   "channel_redirect": "https://t.me/+2dTYtlpTdCMwZmRl"
 }
