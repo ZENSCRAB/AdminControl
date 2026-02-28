@@ -1,19 +1,4 @@
 {
-  "force_join": "on",
-
-  "admin_bot": "YOUR_ADMIN_BOT_TOKEN",
-
-  "channel_id": -1003878622191,
-  "channel_link": "https://t.me/crexmate",
-
-  "group_id": null,
-  "group_link": null,
-
-  "join_msg": "🔒 Join our channel to use this tool",
-  "force_success_msg": "✅ Access Granted",
-  "force_fail_msg": "❌ You must join the channel first!",
-
-
   "TOOL_V1": "off",
   "TOOL_V2": "on",
   "TOOL_V3": "on",
